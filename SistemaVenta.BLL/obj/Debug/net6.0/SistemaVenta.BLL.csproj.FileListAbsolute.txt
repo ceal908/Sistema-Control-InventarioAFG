@@ -1,0 +1,85 @@
+C:\ProgramasVisual\Curso de Sistema Venta Core\SolucionSistemaVenta\SistemaVenta.BLL\bin\Debug\net6.0\SistemaVenta.BLL.deps.json
+C:\ProgramasVisual\Curso de Sistema Venta Core\SolucionSistemaVenta\SistemaVenta.BLL\bin\Debug\net6.0\SistemaVenta.BLL.dll
+C:\ProgramasVisual\Curso de Sistema Venta Core\SolucionSistemaVenta\SistemaVenta.BLL\bin\Debug\net6.0\ref\SistemaVenta.BLL.dll
+C:\ProgramasVisual\Curso de Sistema Venta Core\SolucionSistemaVenta\SistemaVenta.BLL\bin\Debug\net6.0\SistemaVenta.BLL.pdb
+C:\ProgramasVisual\Curso de Sistema Venta Core\SolucionSistemaVenta\SistemaVenta.BLL\obj\Debug\net6.0\SistemaVenta.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\ProgramasVisual\Curso de Sistema Venta Core\SolucionSistemaVenta\SistemaVenta.BLL\obj\Debug\net6.0\SistemaVenta.BLL.AssemblyInfoInputs.cache
+C:\ProgramasVisual\Curso de Sistema Venta Core\SolucionSistemaVenta\SistemaVenta.BLL\obj\Debug\net6.0\SistemaVenta.BLL.AssemblyInfo.cs
+C:\ProgramasVisual\Curso de Sistema Venta Core\SolucionSistemaVenta\SistemaVenta.BLL\obj\Debug\net6.0\SistemaVenta.BLL.csproj.CoreCompileInputs.cache
+C:\ProgramasVisual\Curso de Sistema Venta Core\SolucionSistemaVenta\SistemaVenta.BLL\obj\Debug\net6.0\SistemaVenta.BLL.dll
+C:\ProgramasVisual\Curso de Sistema Venta Core\SolucionSistemaVenta\SistemaVenta.BLL\obj\Debug\net6.0\ref\SistemaVenta.BLL.dll
+C:\ProgramasVisual\Curso de Sistema Venta Core\SolucionSistemaVenta\SistemaVenta.BLL\obj\Debug\net6.0\SistemaVenta.BLL.pdb
+C:\ProgramasVisual\Curso de Sistema Venta Core\SolucionSistemaVenta\SistemaVenta.BLL\bin\Debug\net6.0\SistemaVenta.DAL.dll
+C:\ProgramasVisual\Curso de Sistema Venta Core\SolucionSistemaVenta\SistemaVenta.BLL\bin\Debug\net6.0\SistemaVenta.Entity.dll
+C:\ProgramasVisual\Curso de Sistema Venta Core\SolucionSistemaVenta\SistemaVenta.BLL\bin\Debug\net6.0\SistemaVenta.DAL.pdb
+C:\ProgramasVisual\Curso de Sistema Venta Core\SolucionSistemaVenta\SistemaVenta.BLL\bin\Debug\net6.0\SistemaVenta.Entity.pdb
+C:\ProgramasVisual\Curso de Sistema Venta Core\SolucionSistemaVenta\SistemaVenta.BLL\obj\Debug\net6.0\SistemaVenta.BLL.csproj.AssemblyReference.cache
+C:\ProgramasVisual\Curso de Sistema Venta Core\SolucionSistemaVenta\SistemaVenta.BLL\obj\Debug\net6.0\SistemaVenta.BLL.csproj.CopyComplete
+E:\WorkSpaceAD\YOUTUBE\082_CURSO SISTEMA VENTA ASP.NET CORE\Subir\SolucionSistemaVenta\SistemaVenta.BLL\bin\Debug\net6.0\SistemaVenta.BLL.deps.json
+E:\WorkSpaceAD\YOUTUBE\082_CURSO SISTEMA VENTA ASP.NET CORE\Subir\SolucionSistemaVenta\SistemaVenta.BLL\bin\Debug\net6.0\SistemaVenta.BLL.dll
+E:\WorkSpaceAD\YOUTUBE\082_CURSO SISTEMA VENTA ASP.NET CORE\Subir\SolucionSistemaVenta\SistemaVenta.BLL\bin\Debug\net6.0\ref\SistemaVenta.BLL.dll
+E:\WorkSpaceAD\YOUTUBE\082_CURSO SISTEMA VENTA ASP.NET CORE\Subir\SolucionSistemaVenta\SistemaVenta.BLL\bin\Debug\net6.0\SistemaVenta.BLL.pdb
+E:\WorkSpaceAD\YOUTUBE\082_CURSO SISTEMA VENTA ASP.NET CORE\Subir\SolucionSistemaVenta\SistemaVenta.BLL\bin\Debug\net6.0\SistemaVenta.DAL.dll
+E:\WorkSpaceAD\YOUTUBE\082_CURSO SISTEMA VENTA ASP.NET CORE\Subir\SolucionSistemaVenta\SistemaVenta.BLL\bin\Debug\net6.0\SistemaVenta.Entity.dll
+E:\WorkSpaceAD\YOUTUBE\082_CURSO SISTEMA VENTA ASP.NET CORE\Subir\SolucionSistemaVenta\SistemaVenta.BLL\bin\Debug\net6.0\SistemaVenta.DAL.pdb
+E:\WorkSpaceAD\YOUTUBE\082_CURSO SISTEMA VENTA ASP.NET CORE\Subir\SolucionSistemaVenta\SistemaVenta.BLL\bin\Debug\net6.0\SistemaVenta.Entity.pdb
+E:\WorkSpaceAD\YOUTUBE\082_CURSO SISTEMA VENTA ASP.NET CORE\Subir\SolucionSistemaVenta\SistemaVenta.BLL\obj\Debug\net6.0\SistemaVenta.BLL.csproj.AssemblyReference.cache
+E:\WorkSpaceAD\YOUTUBE\082_CURSO SISTEMA VENTA ASP.NET CORE\Subir\SolucionSistemaVenta\SistemaVenta.BLL\obj\Debug\net6.0\SistemaVenta.BLL.GeneratedMSBuildEditorConfig.editorconfig
+E:\WorkSpaceAD\YOUTUBE\082_CURSO SISTEMA VENTA ASP.NET CORE\Subir\SolucionSistemaVenta\SistemaVenta.BLL\obj\Debug\net6.0\SistemaVenta.BLL.AssemblyInfoInputs.cache
+E:\WorkSpaceAD\YOUTUBE\082_CURSO SISTEMA VENTA ASP.NET CORE\Subir\SolucionSistemaVenta\SistemaVenta.BLL\obj\Debug\net6.0\SistemaVenta.BLL.AssemblyInfo.cs
+E:\WorkSpaceAD\YOUTUBE\082_CURSO SISTEMA VENTA ASP.NET CORE\Subir\SolucionSistemaVenta\SistemaVenta.BLL\obj\Debug\net6.0\SistemaVenta.BLL.csproj.CoreCompileInputs.cache
+E:\WorkSpaceAD\YOUTUBE\082_CURSO SISTEMA VENTA ASP.NET CORE\Subir\SolucionSistemaVenta\SistemaVenta.BLL\obj\Debug\net6.0\SistemaVenta.BLL.csproj.CopyComplete
+E:\WorkSpaceAD\YOUTUBE\082_CURSO SISTEMA VENTA ASP.NET CORE\Subir\SolucionSistemaVenta\SistemaVenta.BLL\obj\Debug\net6.0\SistemaVenta.BLL.dll
+E:\WorkSpaceAD\YOUTUBE\082_CURSO SISTEMA VENTA ASP.NET CORE\Subir\SolucionSistemaVenta\SistemaVenta.BLL\obj\Debug\net6.0\ref\SistemaVenta.BLL.dll
+E:\WorkSpaceAD\YOUTUBE\082_CURSO SISTEMA VENTA ASP.NET CORE\Subir\SolucionSistemaVenta\SistemaVenta.BLL\obj\Debug\net6.0\SistemaVenta.BLL.pdb
+C:\ESCRITORIO\SolucionSistemaVenta\SistemaVenta.BLL\bin\Debug\net6.0\SistemaVenta.BLL.deps.json
+C:\ESCRITORIO\SolucionSistemaVenta\SistemaVenta.BLL\bin\Debug\net6.0\SistemaVenta.BLL.dll
+C:\ESCRITORIO\SolucionSistemaVenta\SistemaVenta.BLL\bin\Debug\net6.0\SistemaVenta.BLL.pdb
+C:\ESCRITORIO\SolucionSistemaVenta\SistemaVenta.BLL\bin\Debug\net6.0\SistemaVenta.DAL.dll
+C:\ESCRITORIO\SolucionSistemaVenta\SistemaVenta.BLL\bin\Debug\net6.0\SistemaVenta.Entity.dll
+C:\ESCRITORIO\SolucionSistemaVenta\SistemaVenta.BLL\bin\Debug\net6.0\SistemaVenta.DAL.pdb
+C:\ESCRITORIO\SolucionSistemaVenta\SistemaVenta.BLL\bin\Debug\net6.0\SistemaVenta.Entity.pdb
+C:\ESCRITORIO\SolucionSistemaVenta\SistemaVenta.BLL\obj\Debug\net6.0\SistemaVenta.BLL.csproj.AssemblyReference.cache
+C:\ESCRITORIO\SolucionSistemaVenta\SistemaVenta.BLL\obj\Debug\net6.0\SistemaVenta.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\ESCRITORIO\SolucionSistemaVenta\SistemaVenta.BLL\obj\Debug\net6.0\SistemaVenta.BLL.AssemblyInfoInputs.cache
+C:\ESCRITORIO\SolucionSistemaVenta\SistemaVenta.BLL\obj\Debug\net6.0\SistemaVenta.BLL.AssemblyInfo.cs
+C:\ESCRITORIO\SolucionSistemaVenta\SistemaVenta.BLL\obj\Debug\net6.0\SistemaVenta.BLL.csproj.CoreCompileInputs.cache
+C:\ESCRITORIO\SolucionSistemaVenta\SistemaVenta.BLL\obj\Debug\net6.0\SistemaVenta.BLL.csproj.CopyComplete
+C:\ESCRITORIO\SolucionSistemaVenta\SistemaVenta.BLL\obj\Debug\net6.0\SistemaVenta.BLL.dll
+C:\ESCRITORIO\SolucionSistemaVenta\SistemaVenta.BLL\obj\Debug\net6.0\refint\SistemaVenta.BLL.dll
+C:\ESCRITORIO\SolucionSistemaVenta\SistemaVenta.BLL\obj\Debug\net6.0\SistemaVenta.BLL.pdb
+C:\ESCRITORIO\SolucionSistemaVenta\SistemaVenta.BLL\obj\Debug\net6.0\ref\SistemaVenta.BLL.dll
+C:\ProgramasVisual\PI1final\PIA2_EqLosMugr-Osos_SolucionSistemaVenta-main\SistemaVenta.BLL\bin\Debug\net6.0\SistemaVenta.BLL.deps.json
+C:\ProgramasVisual\PI1final\PIA2_EqLosMugr-Osos_SolucionSistemaVenta-main\SistemaVenta.BLL\bin\Debug\net6.0\SistemaVenta.BLL.dll
+C:\ProgramasVisual\PI1final\PIA2_EqLosMugr-Osos_SolucionSistemaVenta-main\SistemaVenta.BLL\bin\Debug\net6.0\SistemaVenta.BLL.pdb
+C:\ProgramasVisual\PI1final\PIA2_EqLosMugr-Osos_SolucionSistemaVenta-main\SistemaVenta.BLL\bin\Debug\net6.0\SistemaVenta.DAL.dll
+C:\ProgramasVisual\PI1final\PIA2_EqLosMugr-Osos_SolucionSistemaVenta-main\SistemaVenta.BLL\bin\Debug\net6.0\SistemaVenta.Entity.dll
+C:\ProgramasVisual\PI1final\PIA2_EqLosMugr-Osos_SolucionSistemaVenta-main\SistemaVenta.BLL\bin\Debug\net6.0\SistemaVenta.DAL.pdb
+C:\ProgramasVisual\PI1final\PIA2_EqLosMugr-Osos_SolucionSistemaVenta-main\SistemaVenta.BLL\bin\Debug\net6.0\SistemaVenta.Entity.pdb
+C:\ProgramasVisual\PI1final\PIA2_EqLosMugr-Osos_SolucionSistemaVenta-main\SistemaVenta.BLL\obj\Debug\net6.0\SistemaVenta.BLL.csproj.AssemblyReference.cache
+C:\ProgramasVisual\PI1final\PIA2_EqLosMugr-Osos_SolucionSistemaVenta-main\SistemaVenta.BLL\obj\Debug\net6.0\SistemaVenta.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\ProgramasVisual\PI1final\PIA2_EqLosMugr-Osos_SolucionSistemaVenta-main\SistemaVenta.BLL\obj\Debug\net6.0\SistemaVenta.BLL.AssemblyInfoInputs.cache
+C:\ProgramasVisual\PI1final\PIA2_EqLosMugr-Osos_SolucionSistemaVenta-main\SistemaVenta.BLL\obj\Debug\net6.0\SistemaVenta.BLL.AssemblyInfo.cs
+C:\ProgramasVisual\PI1final\PIA2_EqLosMugr-Osos_SolucionSistemaVenta-main\SistemaVenta.BLL\obj\Debug\net6.0\SistemaVenta.BLL.csproj.CoreCompileInputs.cache
+C:\ProgramasVisual\PI1final\PIA2_EqLosMugr-Osos_SolucionSistemaVenta-main\SistemaVenta.BLL\obj\Debug\net6.0\SistemaV.93BC7325.Up2Date
+C:\ProgramasVisual\PI1final\PIA2_EqLosMugr-Osos_SolucionSistemaVenta-main\SistemaVenta.BLL\obj\Debug\net6.0\SistemaVenta.BLL.dll
+C:\ProgramasVisual\PI1final\PIA2_EqLosMugr-Osos_SolucionSistemaVenta-main\SistemaVenta.BLL\obj\Debug\net6.0\refint\SistemaVenta.BLL.dll
+C:\ProgramasVisual\PI1final\PIA2_EqLosMugr-Osos_SolucionSistemaVenta-main\SistemaVenta.BLL\obj\Debug\net6.0\SistemaVenta.BLL.pdb
+C:\ProgramasVisual\PI1final\PIA2_EqLosMugr-Osos_SolucionSistemaVenta-main\SistemaVenta.BLL\obj\Debug\net6.0\ref\SistemaVenta.BLL.dll
+C:\ProgramasVisual\PI1final\SistemaVenta.BLL\bin\Debug\net6.0\SistemaVenta.BLL.deps.json
+C:\ProgramasVisual\PI1final\SistemaVenta.BLL\bin\Debug\net6.0\SistemaVenta.BLL.dll
+C:\ProgramasVisual\PI1final\SistemaVenta.BLL\bin\Debug\net6.0\SistemaVenta.BLL.pdb
+C:\ProgramasVisual\PI1final\SistemaVenta.BLL\bin\Debug\net6.0\SistemaVenta.DAL.dll
+C:\ProgramasVisual\PI1final\SistemaVenta.BLL\bin\Debug\net6.0\SistemaVenta.Entity.dll
+C:\ProgramasVisual\PI1final\SistemaVenta.BLL\bin\Debug\net6.0\SistemaVenta.DAL.pdb
+C:\ProgramasVisual\PI1final\SistemaVenta.BLL\bin\Debug\net6.0\SistemaVenta.Entity.pdb
+C:\ProgramasVisual\PI1final\SistemaVenta.BLL\obj\Debug\net6.0\SistemaVenta.BLL.csproj.AssemblyReference.cache
+C:\ProgramasVisual\PI1final\SistemaVenta.BLL\obj\Debug\net6.0\SistemaVenta.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\ProgramasVisual\PI1final\SistemaVenta.BLL\obj\Debug\net6.0\SistemaVenta.BLL.AssemblyInfoInputs.cache
+C:\ProgramasVisual\PI1final\SistemaVenta.BLL\obj\Debug\net6.0\SistemaVenta.BLL.AssemblyInfo.cs
+C:\ProgramasVisual\PI1final\SistemaVenta.BLL\obj\Debug\net6.0\SistemaVenta.BLL.csproj.CoreCompileInputs.cache
+C:\ProgramasVisual\PI1final\SistemaVenta.BLL\obj\Debug\net6.0\SistemaV.93BC7325.Up2Date
+C:\ProgramasVisual\PI1final\SistemaVenta.BLL\obj\Debug\net6.0\SistemaVenta.BLL.dll
+C:\ProgramasVisual\PI1final\SistemaVenta.BLL\obj\Debug\net6.0\refint\SistemaVenta.BLL.dll
+C:\ProgramasVisual\PI1final\SistemaVenta.BLL\obj\Debug\net6.0\SistemaVenta.BLL.pdb
+C:\ProgramasVisual\PI1final\SistemaVenta.BLL\obj\Debug\net6.0\ref\SistemaVenta.BLL.dll
